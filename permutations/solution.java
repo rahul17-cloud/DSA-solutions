@@ -15,7 +15,7 @@ class Solution {
         }
 
         for (int i = 0; i < nums.length; i++) {
-            if (tempList.contains(nums[i])) continue; // element already exists
+            if (tempList.contains(nums[i])) continue;
             tempList.add(nums[i]);
             backtrack(result, tempList, nums);
             tempList.remove(tempList.size() - 1);
