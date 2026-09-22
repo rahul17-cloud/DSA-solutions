@@ -25,6 +25,7 @@
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -37,8 +38,13 @@
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
