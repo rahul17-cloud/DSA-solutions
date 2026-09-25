@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rahul17-cloud/DSA-solutions/tree/master/0058-length-of-last-word) |
+| [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
@@ -20,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
@@ -63,4 +66,16 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
