@@ -67,6 +67,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahul17-cloud/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Segment Tree
 |  |
 | ------- |
