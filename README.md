@@ -33,6 +33,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rahul17-cloud/DSA-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rahul17-cloud/DSA-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
 |  |
 | ------- |
