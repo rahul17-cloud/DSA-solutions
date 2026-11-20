@@ -41,6 +41,7 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahul17-cloud/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -83,6 +85,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rahul17-cloud/DSA-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahul17-cloud/DSA-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Segment Tree
