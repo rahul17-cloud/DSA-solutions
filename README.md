@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -105,6 +107,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
@@ -194,4 +197,12 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
