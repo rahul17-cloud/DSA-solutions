@@ -30,6 +30,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3934-smallest-unique-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,4 +208,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/rahul17-cloud/DSA-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rahul17-cloud/DSA-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
